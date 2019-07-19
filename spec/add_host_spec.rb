@@ -1,9 +1,12 @@
+require 'spec_helper'
 require_relative '../add_host.rb'
  
-describe HostConfiguration do
+describe HostConfiguration, :feature => ["Some Feature"], :severity => :normal do
 	context "When module is open" do
 		it "is displayed a heading title 'Host Configuration" do
 			hc = HostConfiguration.new
+			hc.open_application
+			hc.wait
 			label = hc.read_module_heading
 			expect(label).to eq "Host Configuration"
 		end
@@ -33,4 +36,3 @@ describe HostConfiguration do
 		end
 	end
 end
-
