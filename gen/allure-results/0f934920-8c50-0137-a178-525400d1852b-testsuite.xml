@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<ns2:test-suite xmlns="" xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1563539918522" stop="1563539920560">
+  <name>HostConfiguration When confirm changes in YaST module</name>
+  <title>HostConfiguration When confirm changes in YaST module</title>
+  <test-cases>
+    <test-case start="1563539918523" stop="1563539920560" status="passed">
+      <name>HostConfiguration When confirm changes in YaST module should be added new hostname to /etc/hosts</name>
+      <title>HostConfiguration When confirm changes in YaST module should be added new hostname to /etc/hosts</title>
+      <steps/>
+      <attachments/>
+      <labels>
+        <label name="feature" value="Some Feature"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="47356677880220"/>
+        <label name="host" value="susetest"/>
+      </labels>
+      <parameters/>
+    </test-case>
+  </test-cases>
+  <labels>
+    <label name="feature" value="Some Feature"/>
+    <label name="severity" value="normal"/>
+    <label name="thread" value="47356677880220"/>
+    <label name="host" value="susetest"/>
+  </labels>
+</ns2:test-suite>

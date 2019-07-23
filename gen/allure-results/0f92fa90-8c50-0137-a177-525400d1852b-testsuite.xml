@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<ns2:test-suite xmlns="" xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1563539916505" stop="1563539918522">
+  <name>HostConfiguration When dialog is filled in and click ok</name>
+  <title>HostConfiguration When dialog is filled in and click ok</title>
+  <test-cases>
+    <test-case start="1563539916505" stop="1563539918521" status="passed">
+      <name>HostConfiguration When dialog is filled in and click ok appears a new row in the table with corresponding data</name>
+      <title>HostConfiguration When dialog is filled in and click ok appears a new row in the table with corresponding data</title>
+      <steps/>
+      <attachments/>
+      <labels>
+        <label name="feature" value="Some Feature"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="47356677880220"/>
+        <label name="host" value="susetest"/>
+      </labels>
+      <parameters/>
+    </test-case>
+  </test-cases>
+  <labels>
+    <label name="feature" value="Some Feature"/>
+    <label name="severity" value="normal"/>
+    <label name="thread" value="47356677880220"/>
+    <label name="host" value="susetest"/>
+  </labels>
+</ns2:test-suite>

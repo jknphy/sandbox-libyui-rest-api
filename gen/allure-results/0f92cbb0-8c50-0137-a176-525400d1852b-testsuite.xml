@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<ns2:test-suite xmlns="" xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1563539916463" stop="1563539916505">
+  <name>HostConfiguration When button Add is clicked</name>
+  <title>HostConfiguration When button Add is clicked</title>
+  <test-cases>
+    <test-case start="1563539916464" stop="1563539916505" status="passed">
+      <name>HostConfiguration When button Add is clicked appears a pop-up</name>
+      <title>HostConfiguration When button Add is clicked appears a pop-up</title>
+      <steps/>
+      <attachments/>
+      <labels>
+        <label name="feature" value="Some Feature"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="47356677880220"/>
+        <label name="host" value="susetest"/>
+      </labels>
+      <parameters/>
+    </test-case>
+  </test-cases>
+  <labels>
+    <label name="feature" value="Some Feature"/>
+    <label name="severity" value="normal"/>
+    <label name="thread" value="47356677880220"/>
+    <label name="host" value="susetest"/>
+  </labels>
+</ns2:test-suite>
